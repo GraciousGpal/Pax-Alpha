@@ -1,0 +1,8 @@
+*.db
+*.pyc
+*.log
+*.db-journal
+*.iml
+*.xml
+*data
+*__pycache__

@@ -1,0 +1,9 @@
+discord-rewrite
+Pillow
+PyNaCl
+requests
+beautifulsoup4
+Ptable
+PyNaCl
+youtube_dl
+yarl<1.2
